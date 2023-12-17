@@ -1,5 +1,5 @@
-Overview
-Gitlet Replication is a scalable version control system inspired by Git. It provides local and remote repositories with features such as add, commit, log, merge, and checkout. The system utilizes a SHA-1 hash-based storage system to encode blob-saved file contents and serializes data in .gitlet files to store old versions of files and the commit tree using the Serializable interface in Java.
+
+Github rep is a scalable version control system inspired by Git. It provides local and remote repositories with features such as add, commit, log, merge, and checkout. The system utilizes a SHA-1 hash-based storage system to encode blob-saved file contents and serializes data in .gitlet files to store old versions of files and the commit tree using the Serializable interface in Java.
 
 Features
 Local and Remote Repositories: Manage both local and remote repositories with familiar Git-like commands.
